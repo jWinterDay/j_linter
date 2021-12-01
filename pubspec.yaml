@@ -1,0 +1,10 @@
+name: j_linter
+description: j linter
+version: 0.0.1
+homepage: https://github.com/jWinterDay
+
+environment:
+  sdk: ">=2.12.0-0 <3.0.0"
+
+dependencies:
+  pedantic: ^1.11.0
