@@ -1,3 +1,3 @@
 library j_linter;
 
-export 'package:pedantic/pedantic.dart';
+void unawaited(Future<void>? future) {}
